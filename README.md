@@ -1,7 +1,7 @@
 # Deep Learning with hyperparameter search and optimization
 
 ## Motivation
-For most image classification tasks in computer vision, especially in Kaggle competitions, transfer learning is a popular and preferred method of training a neural network on an image dataset.  
+For most image classification tasks in computer vision, especially in Kaggle competitions, transfer learning is a popular and preferred method of training a neural network on an image dataset to make predictions.
 
 However, there are instances such as this project where transfer learning fails to produce good results or when the pre-trained model architecture is incompatible with the training data.
 
